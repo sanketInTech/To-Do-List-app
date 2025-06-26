@@ -1,5 +1,6 @@
 # To-Do-List-app
-This is a simple to do list app I made using technologies like Html, CSS and JavaScript.
+This is a simple to do list app. I made it using technologies like Html, CSS and JavaScript.
+
 
 # Features
 1) Adds new tasks.
